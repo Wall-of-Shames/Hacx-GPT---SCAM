@@ -61,7 +61,7 @@ Note: Archiving fraudulent content for evidence purposes is protected under Fair
 ### Archive Integrity
 
 - **SHA-256 Hash:** `[to be calculated]`
-- **Archive.today Link:** https://archive.ph/xxxxx
+- **Archive.today Link:** https://archive.ph/Y4Wzy
 - **Wayback Machine:** [if available]
 
 ### How to Verify

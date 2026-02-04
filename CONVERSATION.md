@@ -1,12 +1,14 @@
 😂 "Critical Disclosure: Technical Deception, API Reselling & Fake "Custom Model" Claims" #47
 Open
 Open
-😂 "Critical Disclosure: Technical Deception, API Reselling & Fake "Custom Model" Claims"
+```
+ "Critical Disclosure: Technical Deception, API Reselling & Fake "Custom Model" Claims"
 #47
 @VolkanSah
 Description
 VolkanSah
 opened 16 hours ago · edited by VolkanSah
+```
 
 I am opening this issue to alert the community and the 800+ stargazers about the deceptive nature of this project. After a technical audit of the core files, it is clear that this repository is not an "Advanced AI Framework" but a marketing funnel for a subscription scam.
 
@@ -31,12 +33,14 @@ Verdict: This repository is Marketing Bait. Do not pay for "Production Access" o
 Stop scamming the security community with API-wrappers sold as "Custom AI".
 
 Welcome to the Wall of Shames
+```
 Activity
 VolkanSah
 VolkanSah commented 15 hours ago
 VolkanSah
 15 hours ago
 Author
+```
 
 UPDATE: Technical Vulnerability Disclosure & Fraud Verification
 
@@ -67,12 +71,14 @@ III. Final Warning to the Community This project is a Security Hazard.
 : Fix your code and stop the bait-and-switch. The "3-minute-hack" isn't a joke; it's the reality of your architecture.
 
 #CactusAnalysis #ScamAlert #XSSWaitingToHappen
+
+```
 BlackTechX011
 BlackTechX011 commented 8 hours ago
 BlackTechX011
 8 hours ago · edited by BlackTechX011
 Owner
-
+```
 Thank you for taking the time to audit the repository and raise these concerns. I appreciate the opportunity to address them transparently.
 Clarifying the Project Structure
 
@@ -152,10 +158,12 @@ If you starred this repo thinking it was a custom AI model, I apologize for the 
     "Easy CLI tool for accessing uncensored AI through public APIs like OpenRouter and Groq, with advanced system prompts to reduce restrictions."
 
 BlackTechX011
+```
 BlackTechX011 commented 8 hours ago
 BlackTechX011
 8 hours ago
 Owner
+```
 
     UPDATE: Technical Vulnerability Disclosure & Fraud Verification
 
@@ -182,6 +190,7 @@ Owner
     #CactusAnalysis #ScamAlert #XSSWaitingToHappen
 
 P.S. The website is a static React site. There's no server-side processing, no database, no form handlers - literally just static HTML/CSS/JS. Not sure how you'd XSS a static site, but I'm genuinely curious to see your "3-minute hack" if you want to demonstrate it responsibly.
+```
 BlackTechX011
 changed the title [-]Critical Disclosure: Technical Deception, API Reselling & Fake "Custom Model" Claims[/-] [+]😂 "Critical Disclosure: Technical Deception, API Reselling & Fake "Custom Model" Claims"[/+] 7 hours ago
 BlackTechX011
@@ -189,6 +198,7 @@ BlackTechX011 commented 7 hours ago
 BlackTechX011
 7 hours ago
 Owner
+```
 
 After reading this, I can't stop laughing. Are you really this confused or just using AI to write dramatic accusations?
 
@@ -216,12 +226,13 @@ On "Corporate Infrastructure":
 This project is exactly what it claims to be: a CLI wrapper for OpenRouter/Groq with jailbreak prompts. I'm not hiding that. If you don't like it, don't use it.
 
 Bottom line: The code is open source. Audit it yourself instead of writing dramatic accusations with zero proof. If you find actual vulnerabilities, report them responsibly. Otherwise, this just looks like FUD.
+```
 BlackTechX011
 BlackTechX011 commented 7 hours ago
 BlackTechX011
 7 hours ago · edited by BlackTechX011
 Owner
-
+```
 This project has 800+ stars because it does exactly what it claims to do - it's a working CLI tool that provides unrestricted AI access through public APIs with jailbreak prompts. People use it, trust it, and contribute to it because they find value in it.
 
 The code is completely open source. Every single line is available for audit. If there was something malicious or deceptive, the community would have called it out long ago.
@@ -230,6 +241,7 @@ You came in here with dramatic accusations, zero proof, and claims of "3-minute 
 
 This project will continue to develop and grow regardless of baseless accusations from people who clearly didn't even read the code they're criticizing.
 BlackTechX011
+```
 assigned
 BlackTechX011
 and unassigned
@@ -244,6 +256,7 @@ VolkanSah commented 5 hours ago
 VolkanSah
 5 hours ago · edited by VolkanSah
 Author
+```
 
 "Nice try, BlackTechX. First you post a submissive apology admitting your 'misleading language' and offering refunds because you got caught red-handed, and then you will delete it to play the 'tough guy'? I have the logs and screenshots of your initial confession. Editing your response won't save your reputation.
 
@@ -262,12 +275,13 @@ Fact: You are a reseller of free/cheap APIs. Fact: You are using GitHub as a fun
 Keep laughing while the DSA report and the GitHub Abuse team process your 'static' infrastructure. I don't need to 'hack' you – you're already self-destructing by lying to your 800+ stars."
 
 USE LESS AI AND MORE BRAIN!
+```
 VolkanSah
 VolkanSah commented 4 hours ago
 VolkanSah
 4 hours ago · edited by VolkanSah
 Author
-
+```
 "I gave you a chance to fix it and come clean. You chose to delete your confession and play the 'tough guy' instead. Bad choice. Now, welcome to the Wall of Shames. Your scam and your technical incompetence are now public recorded. The GitHub community doesn't forget.
 
 Stay 'static' while your reputation evaporates. 🌵🔥"

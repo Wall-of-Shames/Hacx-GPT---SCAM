@@ -1,3 +1,7 @@
+Conveersation Backup for us and our AI-tools if accounts will be closed/baned. Orginal Issues conversation link: https://github.com/BlackTechX011/Hacx-GPT/issues/47
+
+created by me! Volkan Sah
+
 😂 "Critical Disclosure: Technical Deception, API Reselling & Fake "Custom Model" Claims" #47
 Open
 Open

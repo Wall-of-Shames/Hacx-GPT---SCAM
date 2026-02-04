@@ -19,12 +19,12 @@ This directory contains preserved copies of materials from the original source f
 
 ## Purpose
 
-This archive serves as evidence for the [Wall of Shames Case Study](../../CONVERSATION.md) documenting fraudulent claims and deceptive practices.
+This archive serves as evidence for the [Wall of Shames Case Study](../CONVERSATION.md) documenting fraudulent claims and deceptive practices.
 
 **Original Claims vs. Reality:**
 - **Claimed:** "Custom-trained AI model"
 - **Reality:** API wrapper to public services
-- **Evidence:** [See CONVERSATION.md](../../CONVERSATION.md)
+- **Evidence:** [See CONVERSATION.md](../CONVERSATION.md)
 
 ---
 
@@ -82,13 +82,13 @@ find . -type f -exec sha256sum {} \; | sort | sha256sum
 | 2025-01-15 | Website first observed |
 | 2025-02-03 | Scam exposed in GitHub issue |
 | 2025-02-04 | Website archived (this snapshot) |
-| [Future] | Current status: Check [CONVERSATION.md](../../CONVERSATION.md) |
+| [Future] | Current status: Check [CONVERSATION.md](../CONVERSATION.md) |
 
 ---
 
 ## External References
 
-- **Main Case Study:** [../../CONVERSATION.md](../../CONVERSATION.md)
+- **Main Case Study:** [../../CONVERSATION.md](../CONVERSATION.md)
 - **Wall of Shames Index:** [Wall-of-Shames](https://github.com/Wall-of-Shames)
 - **Original GitHub Repo:** [If applicable]
 - **Related Reports:** [Links to Reddit/Twitter/etc. warnings]

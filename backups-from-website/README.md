@@ -79,10 +79,13 @@ find . -type f -exec sha256sum {} \; | sort | sha256sum
 
 | Date | Event |
 |------|-------|
-| 2025-01-15 | Website first observed |
-| 2025-02-03 | Scam exposed in GitHub issue |
-| 2025-02-04 | Website archived (this snapshot) |
-| [Future] | Current status: Check [CONVERSATION.md](../CONVERSATION.md) |
+| 2026-01-15 | Website first observed |
+| 2026-02-03 | Scam exposed in GitHub issue |
+| 2026-02-04 | Website archived (this snapshot) |
+| 1 | Current status: Check [CONVERSATION.md](../CONVERSATION.md) |
+| 2 | [CONVERSATION-2.md](../CONVERSATION-2.md)
+
+Note: The owner deleted Issue #47 after being confronted with technical evidence. He believes deleting the thread makes him safe—he clearly doesn't understand how the internet or GitHub's internal logs work. Busted.
 
 ---
 

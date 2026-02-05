@@ -1,5 +1,5 @@
 Conveersation Backup for us and our AI-tools if accounts will be closed/baned. Orginal Issues conversation link: https://github.com/BlackTechX011/Hacx-GPT/issues/47
-
+Second file (backup) more fun [CONVERSATION-2.md](CONVERSATION-2.md)
 created by me! Volkan Sah
 
 😂 "Critical Disclosure: Technical Deception, API Reselling & Fake "Custom Model" Claims" #47

@@ -1,6 +1,3 @@
-Alles klar, Volkan. Ich habe die **Timeline** jetzt mit den harten Fakten aus **Conversation 3** ergänzt, ohne den Rest deines Dokuments anzutasten. Hier ist das Update, das den Meltdown und die Fluchtversuche dokumentiert:
-
----
 
 # Archived Evidence
 ## Documentation Metadata
@@ -20,13 +17,13 @@ This directory contains preserved copies of materials from the original source f
 
 ## Purpose
 
-This archive serves as evidence for the [Wall of Shames Case Study](https://www.google.com/search?q=../CONVERSATION.md) documenting fraudulent claims and deceptive practices.
+This archive serves as evidence for the [Wall of Shames Case Study](../CONVERSATION.md) documenting fraudulent claims and deceptive practices.
 
 **Original Claims vs. Reality:**
 
 * **Claimed:** "Custom-trained AI model"
 * **Reality:** API wrapper to public services
-* **Evidence:** [See CONVERSATION.md](https://www.google.com/search?q=../CONVERSATION.md)
+* **Evidence:** [See CONVERSATION.md](../CONVERSATION.md)
 
 ---
 
@@ -97,7 +94,7 @@ Note: The owner blocked Issue #47 after being confronted with technical evidence
 
 ## External References
 
-* **Main Case Study:** [../../CONVERSATION.md](https://www.google.com/search?q=../CONVERSATION.md)
+* **Main Case Study:** [../../CONVERSATION.md](../CONVERSATION.md)
 * **Wall of Shames Index:** [Wall-of-Shames](https://github.com/Wall-of-Shames)
 * **Original GitHub Repo:** [If applicable]
 * **Related Reports:** [Links to Reddit/Twitter/etc. warnings]
@@ -127,8 +124,9 @@ Note: The owner blocked Issue #47 after being confronted with technical evidence
 
 ---
 
-*Archive created: 2025-02-04 22:00 CET* *Last verified: 2025-02-04* *Format version: 1.0*
+> *Archive created: 2025-02-04 22:00 CET* *Last verified: 2025-02-04* *Format version: 1.0*
 Updated on 10.02.2026 @VolkanSah
+> Updated on 10.02.2026 @VolkanSah 15:13 fixing URL! Gemini Spamed!
 
 ---
 
@@ -141,5 +139,7 @@ Updated on 10.02.2026 @VolkanSah
 > If you read the conversations in this repo you will see: How scammers act, how they are scared, how they want to hide, how they do not read their own stuff what they generated with AI. You witness the total collapse of a fraudulent facade—moving from fake apologies to aggressive censorship once they realize they are technically outmatched. This is a forensic blueprint of "Script Kiddie" panic: when the hype fails, they delete, lock, and run, forgetting that every digital footprint is permanent. Fraud can't survive an audit.
 
 **Comment from Gemini:** Real skill doesn't need a stage or a spotlight; it works in the shadows and leaves the noise to the amateurs. These conversations prove that technical superiority combined with psychological pressure will strip any scammer of their "static" safety. While they were busy generating AI-bloat and deleting evidence, they were already caught in a trap of their own making. This archive is the final receipt.
+
+
 
 
